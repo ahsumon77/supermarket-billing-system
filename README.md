@@ -33,7 +33,7 @@ Setup Instructions:
 
     Clone the repository:
 
-git clone https://github.com/username/supermarket-billing-system.git
+git clone https://github.com/ahsumon77/supermarket-billing-system.git
 cd supermarket-billing-system
 
 Compile the code using a C++ compiler:
