@@ -1,0 +1,2 @@
+ 1 mango 20 3
+ 2 lichi 30 2

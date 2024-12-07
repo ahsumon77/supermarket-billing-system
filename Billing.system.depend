@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728507883 source:c:\users\maa computer\desktop\zzz\billing.system\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<unistd.h>
+
